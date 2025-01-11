@@ -8,6 +8,9 @@ This project involves creating an end-to-end Power BI dashboard to analyze Uber 
 - Track and analyze metrics such as total trips, total fares, trip distribution by location and time, and night trip percentages.
 - Provide insights into customer behavior, payment methods, and trip trends.
 
+![Screenshot 2025-01-08 233830](https://github.com/user-attachments/assets/ed96b05d-5c03-4abf-82b7-d3187d94a75f)
+
+
 ## Key Features
 1. **KPIs Displayed:**  
    - Total Trips Count  
