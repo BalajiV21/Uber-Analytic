@@ -1,7 +1,7 @@
-# Uber/Ola Taxi Trip Analysis Dashboard
+# Uber Taxi Trip Analysis Dashboard
 
 ## Overview
-This project involves creating an end-to-end Power BI dashboard to analyze Uber/Ola taxi ride data. The goal is to derive actionable insights and help stakeholders make data-driven decisions by visualizing key performance metrics such as total trips, fare, duration, and trip distribution.
+This project involves creating an end-to-end Power BI dashboard to analyze Uber taxi ride data. The goal is to derive actionable insights and help stakeholders make data-driven decisions by visualizing key performance metrics such as total trips, fare, duration, and trip distribution.
 
 ## Objectives
 - Develop a user-friendly and interactive Power BI dashboard.
