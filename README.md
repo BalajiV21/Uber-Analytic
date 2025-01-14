@@ -13,7 +13,7 @@ This project involves creating an end-to-end Power BI dashboard to analyze Uber 
 
 ## Key Features
 1. **KPIs Displayed:**  
-   - Total Trips Count  
+   - Total Trips Count
    - Total Fare  
    - Total Duration  
    - Total Distance  
